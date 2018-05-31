@@ -1,0 +1,39 @@
+export default {
+  //轮播图
+  carouselList:[],
+  //供应商
+  SupplierList:[],
+  //新品
+  newItemList:[],
+  //最热的
+  popularItemList:[],
+  //洗脸的
+  topicList:[],
+  //最后列表
+  cateList:[],
+  //限时购
+  flashSaleIndexVO:{},
+  //轮播下部分文件
+  PolicyDescList:[],
+  //获取头部导航信息
+  headCateList:[],
+  /*第二页实物*/
+  //获取轮播
+  banner:[],
+  //小方块的花瓶
+  column:[],
+  //获取下面小男孩
+  recommendOne:{},
+  //two
+  recommendTwo:{},
+  //thrree
+  recommendThree:{},
+  //世界杯
+  tenfifteen:[],
+  zhenOne:{},
+  zhenTwo:{},
+  zhenThree:{},
+  findMore:[],
+//第三页数据导航
+  categoryL1List:[],
+}
